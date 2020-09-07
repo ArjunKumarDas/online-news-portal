@@ -1,0 +1,25 @@
+
+.news-cotainer{
+    margin-top: 50px;
+    margin-left: 15px;
+    
+}
+.news-part{
+    margin-left: 10px;
+    margin-bottom: 15px;
+    width: 25%;
+    height: 300px;
+    overflow: hidden;
+    float: left;
+}
+.photo {
+    margin-top: -55px;
+    height: 100px;
+    width: 100%;
+
+}
+
+.line-height {
+    height: 55px;
+    overflow: hidden;
+}
